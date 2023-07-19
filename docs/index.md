@@ -1,6 +1,5 @@
 ---
 layout: cv
-title: Sam Sorensen's Resume
 ---
 
 # Sam Sorensen's Resume 
