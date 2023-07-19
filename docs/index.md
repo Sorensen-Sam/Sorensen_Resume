@@ -6,7 +6,6 @@ title: Sam Sorensen's Resume
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
@@ -16,12 +15,6 @@ title: Sam Sorensen's Resume
 
 `2021-2023`
 __Brigham Young University - Idaho__, Raxburg, ID
-
-- 
-
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
 - 3.980 GPA
 
 ## Service and Work History
