@@ -3,6 +3,8 @@ layout: cv
 title: Sam Sorensen's Resume
 ---
 
+# Sam Sorensen's Resume 
+
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
